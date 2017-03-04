@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+}
+
+div.box {
+     height: 300px;
+    width: 300px; 
+    background-color: darkred;
+    text-align: center;
+     }
+
+p { 
+    height: 75%;
+    width: 75%;
+    background-color: #0088dd;
+    box-shadow: 2px 2px 2px grey;
+    scrollbar-darkshadow-color: 4px 4px 4px white;
+    }
